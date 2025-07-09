@@ -13,7 +13,7 @@ You can access the live website here:
 
 
 ## 📈 Popularity
-- ✅ Over **900+ views per quaterly**  
+- ✅ Over **900+ views per quater**  
 - ✅ Helping VFSTR students to compute their SGPA with ease.
 
 
